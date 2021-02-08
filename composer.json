@@ -13,13 +13,13 @@
         },
         {
             "name": "Tigran Azatyan",
-            "email": "tigran.azatyan@gmail.com",
-            "homepage": "https://azatyan.info"
+            "email": "at@createit.am",
+            "homepage": "https://createit.software"
         }
     ],
     "require": {
         "doctrine/common": "~2.3|~3.0",
-        "kriswallsmith/buzz": "^0.17.1"
+        "kriswallsmith/buzz": "1.2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.1"
