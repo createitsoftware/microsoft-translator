@@ -10,6 +10,11 @@
             "name": "Matthias Noback",
             "email": "matthiasnoback@gmail.com",
             "homepage": "http://php-and-symfony.matthiasnoback.nl"
+        },
+        {
+            "name": "Tigran Azatyan",
+            "email": "tigran.azatyan@gmail.com",
+            "homepage": "http://azatyan.info"
         }
     ],
     "require": {
