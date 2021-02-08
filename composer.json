@@ -14,11 +14,11 @@
         {
             "name": "Tigran Azatyan",
             "email": "tigran.azatyan@gmail.com",
-            "homepage": "http://azatyan.info"
+            "homepage": "https://azatyan.info"
         }
     ],
     "require": {
-        "doctrine/common": "~2.2",
+        "doctrine/common": "~2.3|~3.0",
         "kriswallsmith/buzz": "^0.17.1"
     },
     "require-dev": {
