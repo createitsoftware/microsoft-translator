@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Library for making calls to the Microsoft Translator V2 API",
     "keywords": ["translate","Microsoft Translator", "Bing"],
-    "homepage": "http://github.com/matthiasnoback/microsoft-translator",
+    "homepage": "http://github.com/createitsoftware/microsoft-translator",
     "license": "MIT",
     "authors": [
         {
